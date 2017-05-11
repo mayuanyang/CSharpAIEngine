@@ -17,3 +17,9 @@ Consider to use actor pattern to do distribute computing
 
 ### Alea GPU
 Consider to use Alea GPU for parallel execution to speed up training
+
+## Phase 1
+CPU only, focus on computer vision, implement ResNet152 and train Cifar10 classification with 85%+ accuracy
+
+## Phase 1.1
+Implement regression and object detection and localization with region proposal
